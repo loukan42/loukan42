@@ -33,7 +33,7 @@ mes propres produits pour ne pas l'oublier.
 | 2017 à 2018 | Product Manager | You2You, devenu Yper | Partenariat avec DHL Express et offre last mile à 97 % de livraisons réussies. |
 | 2013 à 2017 | Fondateur | Bress Healthcare | Plateforme de télé-échographie pédiatrique Echoes avec La Chaîne de l'Espoir : 6 pays, plus de 450 téléconsultations la première année. |
 | 2014 à 2017 | Europe Manager | while42 | Réseau français d'ingénieurs, French Tech Engineers Network. |
-| 2014 à 2015 | Rédacteur technique | React (Facebook) | Rédaction des « Community Round-up » du blog React avec Christopher Chedeau. |
+| 2014 à 2015 | Rédacteur technique | React (Facebook) | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
 
 **Formation** : [Epitech](https://www.epitech.eu/), European Institute of Technology, promotion 2015.
 
@@ -66,6 +66,19 @@ catalogues produit, roadmaps, plateformes de démo).
 **Technique** : C, C++, TypeScript, React, Next.js, Zod, Playwright, Vercel.
 **IA** : prototypage avec Claude Code et Lovable, cas d'usage de l'IA dans l'assurance santé et prévoyance.
 
+## Contributions open source
+
+En 2014, j'ai rédigé quatre numéros des « Community Round-up » du blog officiel de [React](https://react.dev),
+en collaboration avec Christopher Chedeau. Chaque numéro recense les projets, les retours d'expérience et
+les adoptions de React par la communauté.
+
+| Numéro | Date | Sujets |
+| --- | --- | --- |
+| [Community Round-up #20](https://legacy.reactjs.org/blog/2014/07/28/community-roundup-20.html) | 28 juillet 2014 | Atom passe à React, performance, rechargement à chaud, internationalisation |
+| [Community Round-up #21](https://legacy.reactjs.org/blog/2014/08/03/community-roundup-21.html) | 3 août 2014 | React Router, performance, nouvelles bibliothèques |
+| [Community Round-up #22](https://legacy.reactjs.org/blog/2014/09/12/community-round-up-22.html) | 12 septembre 2014 | Adoption chez Yahoo, Mozilla, Airbnb et Reddit, architecture, performance |
+| [Community Round-up #23](https://legacy.reactjs.org/blog/2014/10/17/community-roundup-23.html) | 17 octobre 2014 | Implémentations de Flux, adoption chez Yahoo et Adobe |
+
 ## Écrits
 
 - [OpenClaw, Moltbook, ClawHub : chronologie d'un emballement agentique (et la vraie leçon produit)](https://www.linkedin.com/in/louhusson/recent-activity/articles/)
@@ -85,5 +98,8 @@ partnership, 97% successful last-mile deliveries), Netheos (KYC and e-signature)
 for product innovation). I also build my own products, such as a school-programme storybook for children
 (Héros de la classe), a family finance-education wallet (Okodukai) and a civic-tech quiz on parliamentary
 open data (Politiquizz).
+
+In 2014 I also wrote four issues of the official React blog's Community Round-up (#20 to #23), alongside
+Christopher Chedeau.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/louhusson/).
