@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+  <title id="t">Lou Husson, Product Manager</title>
+  <desc id="d">Bannière du profil GitHub de Lou Husson</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#16243F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <circle cx="1040" cy="60" r="190" fill="#60A5FA" fill-opacity="0.08"/>
+  <circle cx="1120" cy="250" r="130" fill="#5EEAD4" fill-opacity="0.07"/>
+
+  <rect x="80" y="74" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="80" y="142" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">Lou Husson</text>
+  <text x="80" y="188" fill="#C7D2E5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="500">Product Manager · SaaS B2B, APIs et IA</text>
+  <text x="80" y="228" fill="#8FA1BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Produit, engineering et enablement · Montpellier, France</text>
+</svg>
