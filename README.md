@@ -26,14 +26,14 @@ décision produit côté dev, et je continue à construire mes propres produits.
 | Période | Rôle | Organisation | Ce que j'y ai fait |
 | --- | --- | --- | --- |
 | 2023 à aujourd'hui | Product Manager | [FASST](https://fasst.io) | Produits SaaS B2B et APIs dans l'assurance. Usage de l'IA pour prototyper et accélérer l'alignement, l'avant-vente et l'adoption. |
-| 2020 à 2023 | Product Builder, indépendant | Partner IT Group | Développement et gestion de projet pour Enedis, Carex et GoCLECD. |
-| 2020 à 2021 | Product Manager | Enedis | Industrialisation de l'innovation produit par le Design Thinking. |
-| 2020 | Product Builder | map & match | |
-| 2019 à 2020 | Product Builder | Netheos | Solutions de KYC et de signature électronique. |
+| 2020 à 2023 | Product Builder, indépendant | [Partner IT Group](https://hcinnovation.fr/) | Développement et gestion de projet pour Enedis, Carex et GoCLECD. |
+| 2020 à 2021 | Product Manager | [Enedis](https://www.enedis.fr/) | Industrialisation de l'innovation produit par le Design Thinking. |
+| 2020 | Product Builder | [map & match](https://mapandmatch.com/) | |
+| 2019 à 2020 | Product Builder | [Netheos](https://www.namirial.com/fr/) | Solutions de KYC et de signature électronique. |
 | 2017 à 2018 | Product Manager | You2You, devenu Yper | Partenariat avec DHL Express et offre last mile à 97 % de livraisons réussies. |
-| 2013 à 2017 | Fondateur | Bress Healthcare | Plateforme de télé-échographie pédiatrique Echoes avec La Chaîne de l'Espoir : 6 pays, plus de 450 téléconsultations la première année. |
-| 2014 à 2017 | Europe Manager | while42 | Réseau français d'ingénieurs, French Tech Engineers Network. |
-| 2014 à 2015 | Rédacteur technique | React | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
+| 2013 à 2017 | Fondateur | [Bress Healthcare](https://www.maddyness.com/2016/03/15/bress-healthcare-e-sante/) | Plateforme de télé-échographie pédiatrique Echoes avec La Chaîne de l'Espoir : 6 pays, plus de 450 téléconsultations la première année. |
+| 2014 à 2017 | Europe Manager | [while42](https://www.comite-officiel.org/while42.html) | Réseau français d'ingénieurs, French Tech Engineers Network. |
+| 2014 à 2015 | Rédacteur technique | [React](https://fr.react.dev/) | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
 
 Formation : [Epitech](https://www.epitech.eu/), European Institute of Technology, promotion 2015.
 
