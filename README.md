@@ -17,9 +17,9 @@ Diplômé d'Epitech en 2015, j'ai cofondé dès la sortie d'école une plateform
 pédiatrique, puis accompagné startups, éditeurs SaaS et grands comptes sur des produits complexes :
 applications mobiles, plateformes, APIs, back-offices, de la discovery à l'adoption.
 
-Mon socle est technique (C et C++ bas niveau, projets complets jusqu'à un Wolfenstein 3D et un Bomberman),
-puis marketing, data et business. Je sais donc ce que coûte une décision produit côté dev, et je construis
-mes propres produits pour ne pas l'oublier.
+J'ai commencé par l'ingénierie : C et C++ bas niveau, avec des projets complets comme un Wolfenstein 3D et
+un Bomberman. Le marketing, la data et le business sont venus ensuite. Je sais donc ce que coûte une
+décision produit côté dev, et je continue à construire mes propres produits.
 
 ## Parcours
 
@@ -33,7 +33,7 @@ mes propres produits pour ne pas l'oublier.
 | 2017 à 2018 | Product Manager | You2You, devenu Yper | Partenariat avec DHL Express et offre last mile à 97 % de livraisons réussies. |
 | 2013 à 2017 | Fondateur | Bress Healthcare | Plateforme de télé-échographie pédiatrique Echoes avec La Chaîne de l'Espoir : 6 pays, plus de 450 téléconsultations la première année. |
 | 2014 à 2017 | Europe Manager | while42 | Réseau français d'ingénieurs, French Tech Engineers Network. |
-| 2014 à 2015 | Rédacteur technique | React (Facebook) | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
+| 2014 à 2015 | Rédacteur technique | React | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
 
 **Formation** : [Epitech](https://www.epitech.eu/), European Institute of Technology, promotion 2015.
 
@@ -45,32 +45,31 @@ catalogues produit, roadmaps, plateformes de démo).
 
 | Produit | Ce que c'est | Public |
 | --- | --- | --- |
-| [**Héros de la classe**](https://herosdelaclasse.com/) | Histoires interactives dont l'enfant est le héros, pour apprendre le programme du CP au CM2. Profils, progression sauvegardée, cartes à collectionner. | Enfants de 6 à 11 ans |
-| [**Okodukai**](https://okodukai.fr/) | Portefeuille éducatif familial piloté par les parents : gagner, choisir, dépenser, économiser, attendre, comprendre l'investissement. Pas une banque, aucun paiement réel. | Enfants de 8 à 12 ans |
-| [**Politiquizz**](https://comprendrelapolitique.vercel.app) | Quiz et analyses thématiques qui comparent ses opinions aux votes de l'Assemblée nationale et aux programmes. Données publiques et traçables. | Citoyens |
-| [**MindOdyssey**](https://github.com/loukan42/MindOdyssey-public) | Aventure et construction de village sur 10 époques et 60 missions sourcées. Ni compte enfant, ni classement, ni traceur. | Enfants de 7 à 12 ans |
-| [**Not My Fault**](https://not-my-fault.vercel.app) | Jeu coopératif de crise dans le navigateur : rôles privés, 15 minutes, aucun compte. Serveur autoritaire et moteur déterministe testé. | Groupes de 2 à 5 joueurs |
+| [Héros de la classe](https://herosdelaclasse.com/) | Histoires interactives dont l'enfant est le héros, pour apprendre le programme du CP au CM2. Profils, progression sauvegardée, cartes à collectionner. | Enfants de 6 à 11 ans |
+| [Okodukai](https://okodukai.fr/) | Portefeuille éducatif familial piloté par les parents : gagner, choisir, dépenser, économiser, attendre, comprendre l'investissement. Pas une banque, aucun paiement réel. | Enfants de 8 à 12 ans |
+| [Politiquizz](https://comprendrelapolitique.vercel.app) | Quiz et analyses thématiques qui comparent ses opinions aux votes de l'Assemblée nationale et aux programmes. Données publiques et traçables. | Citoyens |
+| [MindOdyssey](https://github.com/loukan42/MindOdyssey-public) | Aventure et construction de village sur 10 époques et 60 missions sourcées. Ni compte enfant, ni classement, ni traceur. | Enfants de 7 à 12 ans |
+| [Not My Fault](https://not-my-fault.vercel.app) | Jeu coopératif de crise dans le navigateur : rôles privés, 15 minutes, aucun compte. Serveur autoritaire et moteur déterministe testé. | Groupes de 2 à 5 joueurs |
 
-## Ma façon de construire un produit
+## Ce que mes produits ont en commun
 
-- **Les règles de produit passent avant le code.** Pour Okodukai, ce que le produit n'est jamais (pas de
-  classement entre enfants, pas de streak punitive, pas de monnaie réelle) est écrit comme un invariant.
-- **La confiance par construction.** Pas de compte inutile, pas de traceurs, un serveur qui décide de ce
-  qui compte et un client qui n'affiche que ce qu'il doit.
-- **Un périmètre net et une version en ligne.** Chaque projet a un public précis et un état livré.
+Pour Okodukai, j'ai écrit ce que le produit ne fera jamais avant de coder : pas de classement entre
+enfants, pas de streak punitive, pas de monnaie réelle. MindOdyssey n'a ni compte enfant ni traceur. Dans
+Not My Fault, le serveur décide de tout ce qui compte et chaque navigateur ne reçoit que la vue de son
+joueur.
 
 ## Compétences
 
-**Produit** : discovery, vision et roadmap, spécifications, priorisation, delivery, adoption, Design Thinking.
-**Domaines** : assurance, SaaS B2B, APIs, KYC et signature électronique, e-santé, logistique du dernier kilomètre.
-**Technique** : C, C++, TypeScript, React, Next.js, Zod, Playwright, Vercel.
-**IA** : prototypage avec Claude Code et Lovable, cas d'usage de l'IA dans l'assurance santé et prévoyance.
+- Produit : discovery, vision et roadmap, spécifications, priorisation, delivery, adoption, Design Thinking.
+- Domaines : assurance, SaaS B2B, APIs, KYC et signature électronique, e-santé, logistique du dernier kilomètre.
+- Technique : C, C++, TypeScript, React, Next.js, Zod, Playwright, Vercel.
+- IA : prototypage avec Claude Code et Lovable, cas d'usage de l'IA dans l'assurance santé et prévoyance.
 
 ## Contributions open source
 
 En 2014, j'ai rédigé quatre numéros des « Community Round-up » du blog officiel de [React](https://react.dev),
-en collaboration avec Christopher Chedeau. Chaque numéro recense les projets, les retours d'expérience et
-les adoptions de React par la communauté.
+avec Christopher Chedeau. Chaque numéro rassemble les projets, les retours d'expérience et les adoptions de
+React dans la communauté.
 
 | Numéro | Date | Sujets |
 | --- | --- | --- |
@@ -81,10 +80,9 @@ les adoptions de React par la communauté.
 
 ## Écrits
 
-- [OpenClaw, Moltbook, ClawHub : chronologie d'un emballement agentique (et la vraie leçon produit)](https://www.linkedin.com/in/louhusson/recent-activity/articles/)
-- [Les cas d'usage de l'IA dans l'assurance santé et prévoyance, juillet 2025](https://www.linkedin.com/in/louhusson/recent-activity/articles/)
-
----
+Deux [articles sur LinkedIn](https://www.linkedin.com/in/louhusson/recent-activity/articles/) : les cas
+d'usage de l'IA dans l'assurance santé et prévoyance (juillet 2025), et une chronologie de l'emballement
+autour d'OpenClaw, Moltbook et ClawHub.
 
 ## In English
 
