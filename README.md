@@ -35,7 +35,7 @@ décision produit côté dev, et je continue à construire mes propres produits.
 | 2014 à 2017 | Europe Manager | while42 | Réseau français d'ingénieurs, French Tech Engineers Network. |
 | 2014 à 2015 | Rédacteur technique | React | Rédaction de quatre « Community Round-up » du [blog officiel de React](#contributions-open-source) avec Christopher Chedeau. |
 
-**Formation** : [Epitech](https://www.epitech.eu/), European Institute of Technology, promotion 2015.
+Formation : [Epitech](https://www.epitech.eu/), European Institute of Technology, promotion 2015.
 
 ## Produits que je construis
 
