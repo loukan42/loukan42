@@ -39,17 +39,18 @@ Formation : [Epitech](https://www.epitech.eu/), European Institute of Technology
 
 ## Produits que je construis
 
-Depuis un an, je pratique le vibe coding pour passer vite de l'idée à un produit en ligne. J'ai aussi
+Cinq produits en ligne : éducation, finance des enfants, civic tech et jeux. Depuis un an, je pratique le
+vibe coding pour passer vite de l'idée à un produit en ligne. En interne, j'ai aussi
 créé en interne une trentaine d'applications et de démonstrateurs (maquettes, POC, réservation de salles,
 catalogues produit, roadmaps, plateformes de démo).
 
-| Produit | Ce que c'est | Public |
+| Produit | Pitch | Public |
 | --- | --- | --- |
-| [Héros de la classe](https://herosdelaclasse.com/) | Histoires interactives dont l'enfant est le héros, pour apprendre le programme du CP au CM2. Profils, progression sauvegardée, cartes à collectionner. | Enfants de 6 à 11 ans |
-| [Okodukai](https://okodukai.fr/) | Portefeuille éducatif familial piloté par les parents : gagner, choisir, dépenser, économiser, attendre, comprendre l'investissement. Pas une banque, aucun paiement réel. | Enfants de 8 à 12 ans |
-| [Politiquizz](https://comprendrelapolitique.vercel.app) | Quiz et analyses thématiques qui comparent ses opinions aux votes de l'Assemblée nationale et aux programmes. Données publiques et traçables. | Citoyens |
-| [MindOdyssey](https://github.com/loukan42/MindOdyssey-public) | Aventure et construction de village sur 10 époques et 60 missions sourcées. Ni compte enfant, ni classement, ni traceur. | Enfants de 7 à 12 ans |
-| [Not My Fault](https://not-my-fault.vercel.app) | Jeu coopératif de crise dans le navigateur : rôles privés, 15 minutes, aucun compte. Serveur autoritaire et moteur déterministe testé. | Groupes de 2 à 5 joueurs |
+| [Héros de la classe](https://herosdelaclasse.com/) | Le livre dont tu es le héros qui fait réviser le programme du CP au CM2. L'enfant fait ses choix, l'histoire avance et les notions s'apprennent sans qu'il s'en rende compte. Profils, progression sauvegardée et cartes à collectionner donnent envie de revenir chaque jour. | Enfants de 6 à 11 ans |
+| [Okodukai](https://okodukai.fr/) | Une tirelire virtuelle pour apprendre à gérer son argent en jouant. L'enfant gagne, choisit, dépense, économise, attend, puis découvre l'investissement. Les parents gardent la main. Pas une banque, aucun paiement réel. | Enfants de 8 à 12 ans |
+| [Politiquizz](https://comprendrelapolitique.vercel.app) | Ce que font réellement les responsables politiques français, d'après les données publiques officielles. Un quiz compare tes opinions à leurs votes à l'Assemblée nationale et à leurs programmes. | Citoyens |
+| [MindOdyssey](https://loukan42.github.io/MindOdyssey-public/) | Dix mondes, de la Préhistoire à 2026. L'enfant accomplit des missions, débloque les grandes époques de l'Histoire et fait grandir son village. 60 missions sourcées, ni compte enfant, ni classement, ni traceur. | Enfants de 7 à 12 ans |
+| [Not My Fault](https://not-my-fault.vercel.app) | Une crise, un compte à rebours, 2 à 5 joueurs. Chacun reçoit une partie des informations : il faut parler, recouper les indices et s'en sortir avant la fin. En vocal, dans le navigateur, sans compte ni installation. | Groupes de joueurs |
 
 ## Ce que mes produits ont en commun
 
