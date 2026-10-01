@@ -41,7 +41,7 @@ Formation : [Epitech](https://www.epitech.eu/), European Institute of Technology
 
 Cinq produits en ligne : éducation, finance des enfants, civic tech et jeux. Depuis un an, je pratique le
 vibe coding pour passer vite de l'idée à un produit en ligne. En interne, j'ai aussi
-créé en interne une trentaine d'applications et de démonstrateurs (maquettes, POC, réservation de salles,
+créé une trentaine d'applications et de démonstrateurs (maquettes, POC, réservation de salles,
 catalogues produit, roadmaps, plateformes de démo).
 
 | Produit | Pitch | Public |
