@@ -8,8 +8,6 @@
   </p>
 </div>
 
-[Voir mon CV interactif et mes projets](https://louhusson.com/)
-
 ## À propos
 
 Je pilote aujourd'hui des produits SaaS B2B et des APIs dans l'assurance chez [FASST](https://fasst.io),
